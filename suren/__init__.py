@@ -1,1 +1,1 @@
-from . import suren
+from . import surentest
